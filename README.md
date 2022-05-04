@@ -63,3 +63,5 @@ vector<shared_ptr<particle>> found;
 myTree.query(range, found);
 ```
 
+### Reference
+Cmake files provided my University of Colorado Boulder
